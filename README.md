@@ -1,4 +1,4 @@
-# EPST Tutorial (Eulerian Physic Simulation Template)
+# Eulerian Physic Simulation Template (EPST) Tutorial
 
 EPST is a starter template for **grid-based GPU simulations** on macOS using **Metal + SwiftUI**.
 
